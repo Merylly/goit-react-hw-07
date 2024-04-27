@@ -1,0 +1,36 @@
+.form {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 350px;
+  padding: 20px;
+}
+
+.formItem {
+  padding-bottom: 20px;
+  display: block;
+}
+
+.formTitle {
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 4px;
+}
+
+.formInput {
+  padding: 5px 10px;
+  border-radius: 10px;
+  width: 310px;
+}
+
+.error {
+  color: red;
+}
+
+.formButton {
+  padding: 5px 10px;
+  border: 1px solid #686868;
+  border-radius: 5px;
+  height: 30px;
+  margin: 0 auto;
+  display: block;
+}

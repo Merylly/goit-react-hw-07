@@ -1,0 +1,15 @@
+.searchForm {
+  padding: 30px 0;
+}
+
+.searchTitle {
+  font-size: 20px;
+  font-weight: 400;
+  padding-bottom: 10px;
+}
+
+.searchInput {
+  padding: 5px 10px;
+  border-radius: 10px;
+  width: 350px;
+}
